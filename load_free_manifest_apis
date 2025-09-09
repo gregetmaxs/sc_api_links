@@ -1,23 +1,30 @@
-{"api_list": [
+    "api_list": [
         {
-            "name": "Database 1",
+            "name": "Ryuu",
             "url": "https://mellyiscoolaf.pythonanywhere.com/<appid>",
             "success_code": 200,
             "unavailable_code": 404,
             "enabled": true
         },
         {
-            "name": "Database 2",
+            "name": "TwentyTwo Cloud",
+            "url": "http://masss.pythonanywhere.com/storage?auth=IEOIJE54esfsipoE56GE4&appid=<appid>",
+            "success_code": 200,
+            "unavailable_code": 404,
+            "enabled": true
+        },
+        {
+            "name": "Sushi",
             "url": "https://raw.githubusercontent.com/sushi-dev55/sushitools-games-repo/refs/heads/main/<appid>.zip",
             "success_code": 200,
             "unavailable_code": 404,
             "enabled": true
         },
         {
-            "name": "Database 3",
+            "name": "Furcate",
             "url": "https://furcate.eu/FILES/<appid>.zip",
             "success_code": 200,
             "unavailable_code": 404,
             "enabled": true
         }
-    ]}
+    ],
